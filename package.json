@@ -12,7 +12,7 @@
     "mocha": "*",
     "should": "*",
     "zombie": "*",
-    "when": "2.x.x",
+    "when": "3.x.x",
     "accord": "0.0.4",
     "stylus": "0.38.x",
     "axis-css": "0.2.x",
