@@ -14,7 +14,7 @@
     "zombie": "*",
     "when": "2.x.x",
     "accord": "0.0.4",
-    "stylus": "0.38.x",
+    "stylus": "0.54.x",
     "axis-css": "0.2.x",
     "autoprefixer-stylus": "0.0.2",
     "clean-css": "2.x.x",
