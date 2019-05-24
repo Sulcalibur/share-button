@@ -17,7 +17,7 @@
     "stylus": "0.38.x",
     "axis-css": "0.2.x",
     "autoprefixer-stylus": "0.0.2",
-    "clean-css": "2.x.x",
+    "clean-css": "4.x.x",
     "coffee-script": "1.x.x",
     "uglifyjs": "2.x.x",
     "node-uuid": "1.x.x",
