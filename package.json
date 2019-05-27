@@ -16,7 +16,7 @@
     "accord": "0.0.4",
     "stylus": "0.38.x",
     "axis-css": "0.2.x",
-    "autoprefixer-stylus": "0.0.2",
+    "autoprefixer-stylus": "0.14.0",
     "clean-css": "2.x.x",
     "coffee-script": "1.x.x",
     "uglifyjs": "2.x.x",
