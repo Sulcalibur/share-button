@@ -21,7 +21,7 @@
     "coffee-script": "1.x.x",
     "uglifyjs": "2.x.x",
     "node-uuid": "1.x.x",
-    "colors": "0.6.x",
+    "colors": "1.4.x",
     "monocle": "1.x.x"
   },
   "scripts": {
